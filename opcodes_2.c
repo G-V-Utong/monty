@@ -48,7 +48,7 @@ void mty_op_mod(stack_t **stack, unsigned int line_number)
 }
 
 /**
- * mty_op_pchar - Prints the char at the top of the stack, \
+ * mty_op_pchar - Prints the char at the top of the stack \
  * followed by a new line
  * @stack: The pointer to the stack of data
  * @line_number: The current line number
