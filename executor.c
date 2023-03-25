@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * get_opcode_handlers - Retrieves an array of supported instructions
+ * get_opcode_handlers - Retrieves array of supported instructions
  *
  * Return: An array of instructions supported by this program
  */
