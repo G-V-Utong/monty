@@ -38,7 +38,7 @@ enum Date_Format_Modes
  */
 typedef struct stack_s
 {
-	/* The integer stored at the node */
+	/* The integers stored at the node */
 	int n;
 	/* A pointer to the previous element of the stack (or queue) */
 	struct stack_s *prev;
