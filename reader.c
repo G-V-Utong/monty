@@ -40,7 +40,7 @@ char **read_file(char *path, int *lines_count)
 }
 
 /**
- * read_word - Reads a word from the given string
+ * read_word - Reads a word from a given string
  * @str: The string to read from
  * @offset: The offset into the string
  *
