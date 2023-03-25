@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * push - Adds an item at the end of the given stack
+ * push - Adds item at the end of the given stack
  * @stack: The pointer to the stack of values
  * @n: The data stored by the stack's new item
  */
