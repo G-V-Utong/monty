@@ -45,7 +45,7 @@ char *get_data_mode(void)
 }
 
 /**
- * get_lines - Retrieves the lines of the current file
+ * get_lines - Retrieves the line of the current file
  *
  * Return: The lines of the current file
  */
