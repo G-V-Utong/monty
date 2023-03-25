@@ -35,7 +35,7 @@ stack_t *get_top_element(stack_t **stack)
 /**
  * get_bottom_element - Retrieves the item at the bottom of the stack based \
  * on the data format (stack or queue)
- * @stack: The pointer to the stack of values
+ * @stack: The pointer to the stack of value
  *
  * Return: The node at the bottom, otherwise NULL
  */
